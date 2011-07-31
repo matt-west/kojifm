@@ -3,7 +3,7 @@ A web service that generates a playlist of youtube videos based on your last.fm 
 
 This project was previously written in Ruby on Rails however I am re-writting it in GO so that I can get to know the language.
 
-### How to get gioing ###
+### How to get going ###
 1. Compile the source - 8g kojifm.go
 2. Link it - 8l kojifm.8
 3. Run it - ./8.out
