@@ -5,3 +5,4 @@ This project was previously written in Ruby on Rails however I am re-writting it
 
 ### ToDo/Wishlist ###
 - Add authentication so that views can be scrobbled back to last.fm
+- Make it so that playlists can be saved to a user's youtube account
